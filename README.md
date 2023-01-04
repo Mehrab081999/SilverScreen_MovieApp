@@ -1,6 +1,6 @@
 # silverscreen3
 
-A new Flutter project.
+A new Flutter project. It is a simple Movie App .
 
 ## Getting Started
 
