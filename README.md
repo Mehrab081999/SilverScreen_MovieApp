@@ -7,6 +7,11 @@ A new Flutter project. It is a simple Movie App .
 ![3](https://user-images.githubusercontent.com/121930123/211273767-f4c1394b-97d5-47ff-81c8-3da2d73c1a52.jpg)
 ![4](https://user-images.githubusercontent.com/121930123/211273813-467eec17-1d45-4898-9a33-63cdeb9a94c2.jpg)
 ![5](https://user-images.githubusercontent.com/121930123/211273837-bd5e77c7-b0ab-4457-9a84-f0ba3499f285.jpg)
+# Video
+
+
+https://user-images.githubusercontent.com/121930123/211280715-3883cda7-9570-4327-9dca-105eeb97d5e5.mp4
+
 
 ## Getting Started
 
